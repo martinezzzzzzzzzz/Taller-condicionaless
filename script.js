@@ -137,6 +137,3 @@ if (adivinaNumero == numeroAleatorio) {
 else {
     console.log("Has perdido! El número era " + numeroAleatorio)
 }
-
-
-
