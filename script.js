@@ -126,7 +126,7 @@ else{
     console.log("El triángulo es escaleno ")
 }
 
-//EJERCICIO 9 
+//EJERCICIO 10
 
 let adivinaNumero = prompt("Adivina un número entre 1 y 10: ")
 let numeroAleatorio = Math.floor(Math.random() * 10) +1 
@@ -137,3 +137,6 @@ if (adivinaNumero == numeroAleatorio) {
 else {
     console.log("Has perdido! El número era " + numeroAleatorio)
 }
+
+
+
